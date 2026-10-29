@@ -1,0 +1,1 @@
+# [How Claude Code works](https://www.linkedin.com/learning/claude-code-101-by-anthropic/how-claude-code-works-mp4)
